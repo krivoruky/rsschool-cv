@@ -41,3 +41,21 @@ return ReactDOM.createPortal(
 		node
 	);
 ```
+
++## Experience
+
+---
+
+## Courses
+
+---
+
+- CyberED: Frontend developer
+- Skillbox: JavaScript-framework React.js
+
+## Language
+
+---
+
+- Russian
+- English level - A1
