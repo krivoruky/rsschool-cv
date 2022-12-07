@@ -14,3 +14,30 @@
 ---
 
 - I want to change my life and become an IT specialist. It is not easy, but it should not be easy. To make it easier for me to achieve this, I set myself small tasks that I described on this page.
+
++## Skills
+
+---
+
+- HTML
+- CSS/SASS
+- JavaScript
+- Git
+- React
+- Node
+
+## Code Example
+
+---
+
+```react
+return ReactDOM.createPortal(
+		<div
+			className={`styles.container ${classNameList}`}
+			style={{ top: positionTop, left: positionLeft }}
+		>
+			{children}
+		</div>,
+		node
+	);
+```
