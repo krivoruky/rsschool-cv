@@ -32,10 +32,7 @@
 
 ```react
 return ReactDOM.createPortal(
-		<div
-			className={`styles.container ${classNameList}`}
-			style={{ top: positionTop, left: positionLeft }}
-		>
+		<div className={`styles.container ${classNameList}`}>
 			{children}
 		</div>,
 		node
