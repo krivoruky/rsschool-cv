@@ -55,3 +55,20 @@ hr {
 .nav-link:hover {
 color: black;
 }
+
+.footer {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.icon-github {
+	display: flex;
+	align-items: center;
+}
+
+.copyright {
+	font-size: 22px;
+}
